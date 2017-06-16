@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MathQuiz</string>
+    <string name="write_your_answer_here">Write your answer here</string>
+    <string name="e_mail_result">e-mail result</string>
+    <string name="check_answers">Check answers</string>
+    <string name="write_your_answer_for">Write your answer for %s, please!</string>
+    <string name="choose_your_option_for">Choose your option for %s, please!</string>
+    <string name="is_a_correct_answer">is a correct answer</string>
+    <string name="is_a_wrong_answer">is a wrong answer</string>
+</resources>
